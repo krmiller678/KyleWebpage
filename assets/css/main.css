@@ -2707,7 +2707,7 @@ input, select, textarea {
 		position: fixed;
 		text-align: center;
 		top: 0;
-		width: 23em;
+		width: 20em;
 		right: 0;
 	}
 
@@ -2772,7 +2772,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #2dfd26c0;
+					color: #6dff18d2;
 				}
 
 		#header > nav {
